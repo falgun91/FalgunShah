@@ -40,8 +40,6 @@ Definition →  How to validate the hypothesis?
 Delivery   →  Ship fast, learn, and iterate. 
 ```
 
-I believe the best PMs are **ruthlessly curious**, **deeply empathetic** with users, and **comfortable in ambiguity**.
----
 
 
 ## 🌱 Currently Exploring various AI tools to increase my productivity by 10x 
